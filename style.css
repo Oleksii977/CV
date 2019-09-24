@@ -1,0 +1,46 @@
+html, body {font-family: 'Lato', helvetica, arial, sans-serif;}
+
+header{max-width: 960px; margin: 0 auto; background: #ededed;padding: 10px;border-bottom: 2px solid #cf8a05;}
+.header__inner{display: flex; flex-wrap: wrap; justify-content: space-between;}
+.header__img img{
+    width: 150px;
+    border-radius: 50%;
+}
+.header__contact ul{
+    list-style: none;
+}
+.header__contact a{
+    text-decoration: none;
+    color:#cf8a05;
+}
+section{max-width: 960px; margin: 0 auto; background: #ededed;padding: 10px;}
+.section__summary h1{color:#cf8a05; }
+.section__summary{
+    border-bottom: 2px solid #dedede;
+}
+.section__exp h1{color:#cf8a05; }
+.section__exp{
+    border-bottom: 2px solid #dedede;
+}
+
+.section__skils h1{color:#cf8a05; }
+.section__skils{
+    border-bottom: 2px solid #dedede;
+}
+
+.section__education h1{color:#cf8a05; }
+.section__education{
+    border-bottom: 2px solid #dedede;
+}
+
+.section__portfolio h1{color:#cf8a05; }
+.section__portfolio{
+    border-bottom: 2px solid #dedede;
+}
+.section__portfolio ul{
+    list-style: none;
+}
+.section__portfolio a{
+    text-decoration: none;
+    color:#cf8a05;
+}
